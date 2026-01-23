@@ -11,3 +11,19 @@ Baffet lab's papers:
 - [Lindenhofer 2024, NatCell](papers/Lindenhofer2024_NatCell.pdf) and [PR report](papers/Lindenhofer2024_NatCell_PR.pdf)
 
 
+## Thu 22 Jan - Fri 23 Jan
+Meeting with OS: Overall: 
+- Phase I: Exploring / analyzing the HDBR dataset by Lindsay 2016 of normal developing brain samples --> benchmark / reference transcriptomic signatures for each step of the brain development (early embryonic?) of each brain compartment (sounds ambitious)
+- Phase 2: Analyzing Ludovica's celebellar organoids ie mapping to the phase I dataset
+So for the second step to be good the first step should be good, hope so.
+
+Data is ready, QC and alignment by Loic, will need to ask for QC reports and alignment reports to see them myself.
+
+2 streams of analyses are DEGs and AS. Loic will handle AS mostly? Will confirm later with OS.
+
+Phase I:
+- Analyze at the highest level first: mid, hind, fore --> stratify further if needed
+- 2 QC steps from the perspective of the dataset: (1) reproduce the PCA in the HDBR paper (2) 
+
+
+## 
