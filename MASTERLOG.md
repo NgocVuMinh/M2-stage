@@ -23,7 +23,14 @@ Data is ready, QC and alignment by Loic, will need to ask for QC reports and ali
 
 Phase I:
 - Analyze at the highest level first: mid, hind, fore --> stratify further if needed
-- 2 QC steps from the perspective of the dataset: (1) reproduce the PCA in the HDBR paper (2) 
+- 2 QC steps from the perspective of the dataset: (1) reproduce the PCA in the HDBR paper (2) deconvoluting existing samples:
+    (1) PCA: maybe 3 different PCAs: with and without the unidentified samples, and unident samples alone (to see if they form any clusters on their own). It looks like they could serve as a blind testing set if i come up with a way to deconvolute then predict sample type / dev stage based on transcriptional profile (unlikely but we'll see).
+        The PCA results of cleaned samples will be used to re-stratify the samples from separate time points to grouped dev stage (eg early=4-9PCW) but be mindful that the grouping might (very likely) differ across brain compartments --> consider doing separate PCA on individual brain comps first, then aggregates as the variance will start small, thus easier to identify trajectory in PCA at first. ideally, in all-comp PCA, PC1-3 should explain both dev stage and brain comp, and single-comp PCA should exlain dev stage.
+        The clusters identified in PCA after careful calibrations (number of top variable genes or things like that + literature justifications) will be used for 2 things: (1) grouping time points then (2) DEGs (expect lots of back and forth / iterative pairwise comparisons).
+
+    (2) Deconvolution of samples: since all are bulk seq, need to know whether they are pure / heterogenous. OS mentioned something like estimating the % of cells of each cell type in a sample?
+
+Presentation next tuesday 27 Jan.
 
 
 ## 
