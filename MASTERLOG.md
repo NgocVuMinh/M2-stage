@@ -32,5 +32,11 @@ Phase I:
 
 Presentation next tuesday 27 Jan.
 
+Loic is not done yet with the raw data (need to merge them?), he said he needs to try 3 different protocols to see which one produced the highest % of mapped reads (if I understood him correctly), then picked that one. So I'll probably not have any interesting things to show on my 1st presentation next tuesday 27 Jan. 
+
+In the meantime i work on the metadata. Talked to OS, he's okay: I need to compare the metadata they published (supp tab1 found on HDBR website and the one they actually deposited with their data). I got the latter from Loic already but havent looked at it. Looked into tab1, found it's not consistent entirely with the paper's table 1, so will need to check that again (use `scr/metadata.R`). Will compare with Loic metadata.
+
+Also got my soroban access. Will need to re-learn the thing on Monday (with Loic?). Got a tutorial docs from Lucas too (in `docs/tut_soroban.docx`?).
+
 
 ## 
