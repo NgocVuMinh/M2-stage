@@ -174,8 +174,7 @@ length(unique(dt.supp.p$ID_SUPP))
 
 
 # count data
-
-
+count0 <- read.table("C:/Users/Equipe_Saulnier/OneDrive\ -\ INSTITUT\ CURIE/env/STARcounts_hg38_HDBR.txt",sep="\t",head=TRUE,check.names=FALSE)
 
 
 
