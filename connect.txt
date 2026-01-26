@@ -1,0 +1,10 @@
+## connect to soroban
+wsl
+ssh mvu1@soroban.curie.fr
+
+Dont work at home, go here: 
+cd /mnt/beegfs/RECHERCHE/u830_Esaulnier/
+
+### About the nodes: 
+Login node is mother node, has Internet but no computing power. Computing nodes have power but no internet. So installing packages should be done in mother node.
+

@@ -1,0 +1,580 @@
+Run	Sample.Characteristic.block.	Sample.Characteristic.developmental.stage.	Sample.Characteristic.individual.	Sample.Characteristic.karyotype.	Sample.Characteristic.organism.part.	Sample.Characteristic.sampling.site.	Analysed	pcw_stage
+1	ERR1472952	sequencing batch:FC2014_038	carnegie stage 23	11826	46, xx	basal ganglion	right	Yes	8 post conception weeks
+2	ERR1472953	sequencing batch:FC2014_038	carnegie stage 23	11827	46, xx	basal ganglion	left	Yes	8 post conception weeks
+3	ERR1472954	sequencing batch:FC2014_038	carnegie stage 23	11827	46, xx	basal ganglion	right	Yes	8 post conception weeks
+4	ERR1472955	sequencing batch:FC2014_030	carnegie stage 23	11846	46, xx	basal ganglion	left	Yes	8 post conception weeks
+5	ERR1472956	sequencing batch:FC2014_030	carnegie stage 23	11846	46, xx	basal ganglion	right	Yes	8 post conception weeks
+6	ERR1472957	sequencing batch:FC2014_030	carnegie stage 23	11918	46, xx	basal ganglion	left	Yes	8 post conception weeks
+7	ERR1472958	sequencing batch:FC2014_030	carnegie stage 23	11918	46, xx	basal ganglion	right	Yes	8 post conception weeks
+8	ERR1472959	sequencing batch:FC2014_035	carnegie stage 22	11831	46, xy	basal ganglion	left	Yes	8 post conception weeks
+9	ERR1472960	sequencing batch:FC2014_032	carnegie stage 22	11831	46, xy	basal ganglion	right	Yes	8 post conception weeks
+10	ERR1472961	sequencing batch:FC2014_043, FC2014_117	9 post conception weeks	11845	46, xy	basal ganglion	right	Yes	9 post conception weeks
+11	ERR1472962	sequencing batch:FC2014_043, FC2014_117	9 post conception weeks	11845	46, xy	basal ganglion	right	Yes	9 post conception weeks
+12	ERR1472963	sequencing batch:FC2014_066	9 post conception weeks	11851	46, xx	basal ganglion	left	Yes	9 post conception weeks
+13	ERR1472964	sequencing batch:FC2014_066	9 post conception weeks	11851	46, xx	basal ganglion	right	Yes	9 post conception weeks
+14	ERR1472965	sequencing batch:FC2014_075	9 post conception weeks	11873	46, xx	basal ganglion	left	Yes	9 post conception weeks
+15	ERR1472966	sequencing batch:FC2014_066	9 post conception weeks	11873	46, xx	basal ganglion	right	Yes	9 post conception weeks
+16	ERR1472967	sequencing batch:FC2014_071	late 8 post conception weeks	11832	46, xx	basal ganglion	left	Yes	8 post conception weeks
+17	ERR1472968	sequencing batch:FC2014_071	late 8 post conception weeks	11832	46, xx	basal ganglion	right	Yes	8 post conception weeks
+18	ERR1472969	sequencing batch:FC2014_073	late 8 post conception weeks	11830	46, xx	basal ganglion	left	Yes	8 post conception weeks
+19	ERR1472970	sequencing batch:FC2014_073	late 8 post conception weeks	11830	46, xx	basal ganglion	right	Yes	8 post conception weeks
+20	ERR1472971	sequencing batch:FC2014_054	carnegie stage 23	11920	46, xy	basal ganglion	left	Yes	8 post conception weeks
+21	ERR1472972	sequencing batch:FC2014_054	carnegie stage 23	11920	46, xy	basal ganglion	right	Yes	8 post conception weeks
+22	ERR1472973	sequencing batch:FC2014_054	16 post conception weeks	11907	46, xx	basal ganglion	right	Yes	16 post conception weeks
+23	ERR1472974	sequencing batch:FC2014_055	13 post conception weeks	1923	46, xx	basal ganglion	left	Yes	13 post conception weeks
+24	ERR1472975	sequencing batch:FC2014_055	13 post conception weeks	1923	46, xx	basal ganglion	right	Yes	13 post conception weeks
+25	ERR1472976	sequencing batch:FC2014_047	11 post conception weeks	11656	46, xx	basal ganglion		Yes	11 post conception weeks
+26	ERR1472977	sequencing batch:FC2014_047	11 post conception weeks	11833	46, xx	basal ganglion	left	Yes	11 post conception weeks
+27	ERR1472978	sequencing batch:FC2014_044	11 post conception weeks	11833	46, xx	basal ganglion	right	Yes	11 post conception weeks
+28	ERR1472979	sequencing batch:FC2014_044	11 post conception weeks	11942	46, xx	basal ganglion	left	Yes	11 post conception weeks
+29	ERR1472980	sequencing batch:FC2014_044	10 post conception weeks	11841	46, xy	basal ganglion	left	Yes	10 post conception weeks
+30	ERR1472981	sequencing batch:FC2014_045	13 post conception weeks	11947	46, xx	basal ganglion	right	Yes	13 post conception weeks
+31	ERR1472982	sequencing batch:FC2014_044	17 post conception weeks	11921	46, xy	basal ganglion	left	Yes	17 post conception weeks
+32	ERR1472983	sequencing batch:FC2014_080	12 post conception weeks	12007	46, xy	basal ganglion	left	Yes	12 post conception weeks
+33	ERR1472984	sequencing batch:FC2014_080	12 post conception weeks	12007	46, xy	basal ganglion	right	Yes	12 post conception weeks
+34	ERR1472985	sequencing batch:FC2014_081	11 post conception weeks	11942	46, xx	basal ganglion	right	Yes	11 post conception weeks
+35	ERR1472986	sequencing batch:FC2014_038	carnegie stage 23	11823	46, xy	brain fragment	left	Yes	8 post conception weeks
+36	ERR1472987	sequencing batch:FC2014_038	carnegie stage 23	11823	46, xy	brain fragment	right	Yes	8 post conception weeks
+37	ERR1472988	sequencing batch:FC2014_038	carnegie stage 23	11826	46, xx	brain fragment		Yes	8 post conception weeks
+38	ERR1472989	sequencing batch:FC2014_030	carnegie stage 23	11827	46, xx	brain fragment		Yes	8 post conception weeks
+39	ERR1472990	sequencing batch:FC2014_030	carnegie stage 23	11860	46, xx	brain fragment		Yes	8 post conception weeks
+40	ERR1472991	sequencing batch:FC2014_030	carnegie stage 23	11843	46, xx	brain fragment		Yes	8 post conception weeks
+41	ERR1472992	sequencing batch:FC2014_030	carnegie stage 23	11444	46, xy	brain fragment		Yes	8 post conception weeks
+42	ERR1472993	sequencing batch:FC2014_037	carnegie stage 22	11868	46, xx	brain fragment		Yes	8 post conception weeks
+43	ERR1472994	sequencing batch:FC2014_037	carnegie stage 22	11793	46, xy	brain fragment		Yes	8 post conception weeks
+44	ERR1472995	sequencing batch:FC2014_037	carnegie stage 22	11443	46, xx	brain fragment		Yes	8 post conception weeks
+45	ERR1472996	sequencing batch:FC2014_037	carnegie stage 22	11410	46, xy	brain fragment		Yes	8 post conception weeks
+46	ERR1472997	sequencing batch:FC2014_037	carnegie stage 21	11849	46, xy	brain fragment		Yes	8 post conception weeks
+47	ERR1472998	sequencing batch:FC2014_037	carnegie stage 21	11811	46, xx	brain fragment		Yes	8 post conception weeks
+48	ERR1472999	sequencing batch:FC2014_037	carnegie stage 19	11566	46, xx	brain fragment		Yes	7 post conception weeks
+49	ERR1473000	sequencing batch:FC2014_037	carnegie stage 19	11514	46, xx	brain fragment		Yes	7 post conception weeks
+50	ERR1473001	sequencing batch:FC2014_037	carnegie stage 18	11770	46, xx	brain fragment		Yes	7 post conception weeks
+51	ERR1473002	sequencing batch:FC2014_037	carnegie stage 18	11627	46, xx	brain fragment		Yes	7 post conception weeks
+52	ERR1473003	sequencing batch:FC2014_037	carnegie stage 18	11456	46, xx	brain fragment		Yes	7 post conception weeks
+53	ERR1473004	sequencing batch:FC2014_073	late 8 post conception weeks	11800	46, xx	brain fragment		Yes	8 post conception weeks
+54	ERR1473005	sequencing batch:FC2014_073	late 8 post conception weeks	11492	46, xy	brain fragment		Yes	8 post conception weeks
+55	ERR1473006	sequencing batch:FC2014_054	16 post conception weeks	11819	46, xx	brain fragment		Yes	16 post conception weeks
+56	ERR1473007	sequencing batch:FC2014_055	14 post conception weeks	11794	46, xx	brain fragment		Yes	14 post conception weeks
+57	ERR1473008	sequencing batch:FC2014_055	13 post conception weeks	11501	46, xy	brain fragment		Yes	13 post conception weeks
+58	ERR1473009	sequencing batch:FC2014_047	12 post conception weeks	1047	46, xx	brain fragment		Yes	12 post conception weeks
+59	ERR1473010	sequencing batch:FC2014_047	12 post conception weeks	11429	46, xx	brain fragment		Yes	12 post conception weeks
+60	ERR1473011	sequencing batch:FC2014_047	11 post conception weeks	11798	46, xy	brain fragment		Yes	11 post conception weeks
+61	ERR1473012	sequencing batch:FC2014_047	11 post conception weeks	11806	46, xx	brain fragment		Yes	11 post conception weeks
+62	ERR1473013	sequencing batch:FC2014_044	10 post conception weeks	11880	46, xy	brain fragment		Yes	10 post conception weeks
+63	ERR1473014	sequencing batch:FC2014_045	carnegie stage 18	11122	46, xx	brain fragment		Yes	7 post conception weeks
+64	ERR1473015	sequencing batch:FC2014_045	carnegie stage 19	11238	46, xx	brain fragment		Yes	7 post conception weeks
+65	ERR1473016	sequencing batch:FC2014_045	carnegie stage 19	11286	46, xy	brain fragment		Yes	7 post conception weeks
+66	ERR1473017	sequencing batch:FC2014_045	carnegie stage 20	11237	46, xy	brain fragment		Yes	8 post conception weeks
+67	ERR1473018	sequencing batch:FC2014_045	carnegie stage 20	11382	46, xy	brain fragment		Yes	8 post conception weeks
+68	ERR1473019	sequencing batch:FC2014_045	carnegie stage 21	11254	46, xy	brain fragment		Yes	8 post conception weeks
+69	ERR1473020	sequencing batch:FC2014_045	carnegie stage 21	11471	46, xy	brain fragment		Yes	8 post conception weeks
+70	ERR1473021	sequencing batch:FC2014_045	19 post conception weeks	11875	46, xy	brain fragment		Yes	19 post conception weeks
+71	ERR1473022	sequencing batch:FC2014_045	carnegie stage 21	11304	46, xx	brain fragment		Yes	8 post conception weeks
+72	ERR1473023	sequencing batch:FC2014_045	carnegie stage 21	11165	46, xx	brain fragment		Yes	8 post conception weeks
+73	ERR1473024	sequencing batch:FC2014_048	carnegie stage 22	1707	46, xx	brain fragment		No	8 post conception weeks
+74	ERR1473025	sequencing batch:FC2014_048	carnegie stage 23	1607	46, xx	brain fragment		No	8 post conception weeks
+75	ERR1473026	sequencing batch:FC2014_048	carnegie stage 23	2193	46, xy	brain fragment		No	8 post conception weeks
+76	ERR1473027	sequencing batch:FC2014_048	carnegie stage 23	11120	46, xy	brain fragment		No	8 post conception weeks
+77	ERR1473028	sequencing batch:FC2014_048	carnegie stage 20	11354	46, xy	brain fragment		No	8 post conception weeks
+78	ERR1473029	sequencing batch:FC2014_048	carnegie stage 20	11245	46, xx	brain fragment		No	8 post conception weeks
+79	ERR1473030	sequencing batch:FC2014_048	carnegie stage 20	11241	46, xx	brain fragment		No	8 post conception weeks
+80	ERR1473031	sequencing batch:FC2014_048	carnegie stage 20	11156	46, xy	brain fragment		No	8 post conception weeks
+81	ERR1473032	sequencing batch:FC2014_049	carnegie stage 19	11894	46, xy	brain fragment		Yes	7 post conception weeks
+82	ERR1473033	sequencing batch:FC2014_049	carnegie stage 19	11470	46, xx	brain fragment		Yes	7 post conception weeks
+83	ERR1473034	sequencing batch:FC2014_049	carnegie stage 19	11363	46, xx	brain fragment		Yes	7 post conception weeks
+84	ERR1473035	sequencing batch:FC2014_049	carnegie stage 19	11323	46, xx	brain fragment		Yes	7 post conception weeks
+85	ERR1473036	sequencing batch:FC2014_049	carnegie stage 19	11320	46, xy	brain fragment		Yes	7 post conception weeks
+86	ERR1473037	sequencing batch:FC2014_049	carnegie stage 19	11318	46, xy	brain fragment		Yes	7 post conception weeks
+87	ERR1473038	sequencing batch:FC2014_049	carnegie stage 19	11317	46, xy	brain fragment		Yes	7 post conception weeks
+88	ERR1473039	sequencing batch:FC2014_049	carnegie stage 19	11300	46, xy	brain fragment		Yes	7 post conception weeks
+89	ERR1473040	sequencing batch:FC2014_049	carnegie stage 18	11859	46, xy	brain fragment		Yes	7 post conception weeks
+90	ERR1473041	sequencing batch:FC2014_049	carnegie stage 18	11469	46, xx	brain fragment		Yes	7 post conception weeks
+91	ERR1473042	sequencing batch:FC2014_049	carnegie stage 18	11438	46, xy	brain fragment		Yes	7 post conception weeks
+92	ERR1473043	sequencing batch:FC2014_049	carnegie stage 18	11322	46, xy	brain fragment		Yes	7 post conception weeks
+93	ERR1473044	sequencing batch:FC2014_049	carnegie stage 18	11234	46, xx	brain fragment		Yes	7 post conception weeks
+94	ERR1473045	sequencing batch:FC2014_049	carnegie stage 17	11395	46, xy	brain fragment		Yes	6 post conception weeks
+95	ERR1473046	sequencing batch:FC2014_049	carnegie stage 17	11321	46, xy	brain fragment		Yes	6 post conception weeks
+96	ERR1473047	sequencing batch:FC2014_049	carnegie stage 16	11334	46, xx	brain fragment		Yes	6 post conception weeks
+97	ERR1473048	sequencing batch:FC2014_049	carnegie stage 15	11397	46, xx	brain fragment		Yes	5 post conception weeks
+98	ERR1473049	sequencing batch:FC2014_045	carnegie stage 15	11405	46, xx	brain fragment		Yes	5 post conception weeks
+99	ERR1473050	sequencing batch:FC2014_050	carnegie stage 20	11143	46, xy	brain fragment		Yes	8 post conception weeks
+100	ERR1473051	sequencing batch:FC2014_050	9 post conception weeks	11312	46, xx	brain fragment		Yes	9 post conception weeks
+101	ERR1473052	sequencing batch:FC2014_050	late 8 post conception weeks	11160	46, xx	brain fragment		Yes	8 post conception weeks
+102	ERR1473053	sequencing batch:FC2014_050	late 8 post conception weeks	11144	46, xy	brain fragment		Yes	8 post conception weeks
+103	ERR1473054	sequencing batch:FC2014_050	20 post conception weeks	11589	46, xy	brain fragment		Yes	20 post conception weeks
+104	ERR1473055	sequencing batch:FC2014_050	carnegie stage 21	11876	46, xy	brain fragment		Yes	8 post conception weeks
+105	ERR1473056	sequencing batch:FC2014_050	19 post conception weeks	11581	46, xy	brain fragment		Yes	19 post conception weeks
+106	ERR1473057	sequencing batch:FC2014_050	17 post conception weeks	11808	46, xy	brain fragment		Yes	17 post conception weeks
+107	ERR1473058	sequencing batch:FC2014_050	17 post conception weeks	11580	46, xy	brain fragment		Yes	17 post conception weeks
+108	ERR1473059	sequencing batch:FC2014_050	17 post conception weeks	11464	46, xx	brain fragment		Yes	17 post conception weeks
+109	ERR1473060	sequencing batch:FC2014_050	16 post conception weeks	11819	46, xx	brain fragment		Yes	16 post conception weeks
+110	ERR1473061	sequencing batch:FC2014_050	15 post conception weeks	11801	46, xx	brain fragment		Yes	15 post conception weeks
+111	ERR1473062	sequencing batch:FC2014_050	15 post conception weeks	11446	46, xy	brain fragment		Yes	15 post conception weeks
+112	ERR1473063	sequencing batch:FC2014_081, FC2014_117	14 post conception weeks	11794	46, xx	brain fragment		Yes	14 post conception weeks
+113	ERR1473064	sequencing batch:FC2014_081, FC2014_117	14 post conception weeks	11794	46, xx	brain fragment		Yes	14 post conception weeks
+114	ERR1473065	sequencing batch:FC2014_053	14 post conception weeks	11511	46, xy	brain fragment		No	14 post conception weeks
+115	ERR1473066	sequencing batch:FC2014_053	14 post conception weeks	11494	46, xy	brain fragment		No	14 post conception weeks
+116	ERR1473067	sequencing batch:FC2014_053	14 post conception weeks	11457	46, xx	brain fragment		No	14 post conception weeks
+117	ERR1473068	sequencing batch:FC2014_053	14 post conception weeks	11451	46, xy	brain fragment		No	14 post conception weeks
+118	ERR1473069	sequencing batch:FC2014_089	14 post conception weeks	11449	46, xy	brain fragment		Yes	14 post conception weeks
+119	ERR1473070	sequencing batch:FC2014_065	14 post conception weeks	11424	46, xx	brain fragment		Yes	14 post conception weeks
+120	ERR1473071	sequencing batch:FC2014_053	13 post conception weeks	11817	46, xx	brain fragment		No	13 post conception weeks
+121	ERR1473072	sequencing batch:FC2014_053	13 post conception weeks	11775	46, xy	brain fragment		No	13 post conception weeks
+122	ERR1473073	sequencing batch:FC2014_053	13 post conception weeks	11654	46, xx	brain fragment		No	13 post conception weeks
+123	ERR1473074	sequencing batch:FC2014_055	13 post conception weeks	11572	unknown	brain fragment		Yes	13 post conception weeks
+124	ERR1473075	sequencing batch:FC2014_065	13 post conception weeks	11496	46, xy	brain fragment		Yes	13 post conception weeks
+125	ERR1473076	sequencing batch:FC2014_081	13 post conception weeks	11489	46, xx	brain fragment		Yes	13 post conception weeks
+126	ERR1473077	sequencing batch:FC2014_058, FC2014_117	13 post conception weeks	11423	46, xx	brain fragment		Yes	13 post conception weeks
+127	ERR1473078	sequencing batch:FC2014_058, FC2014_117	13 post conception weeks	11423	46, xx	brain fragment		Yes	13 post conception weeks
+128	ERR1473079	sequencing batch:FC2014_058	13 post conception weeks	11349	46, xx	brain fragment		Yes	13 post conception weeks
+129	ERR1473080	sequencing batch:FC2014_058	13 post conception weeks	11309	46, xx	brain fragment		Yes	13 post conception weeks
+130	ERR1473081	sequencing batch:FC2014_058	13 post conception weeks	11305	46, xx	brain fragment		Yes	13 post conception weeks
+131	ERR1473082	sequencing batch:FC2014_065	12 post conception weeks	1047	46, xx	brain fragment		Yes	12 post conception weeks
+132	ERR1473083	sequencing batch:FC2014_065	12 post conception weeks	11373	46, xx	brain fragment		Yes	12 post conception weeks
+133	ERR1473084	sequencing batch:FC2014_065	11 post conception weeks	11798	46, xy	brain fragment		Yes	11 post conception weeks
+134	ERR1473085	sequencing batch:FC2014_089	11 post conception weeks	11769	46, xx	brain fragment		Yes	11 post conception weeks
+135	ERR1473086	sequencing batch:FC2014_045	carnegie stage 22	11814	46, xy	cerebellum	right	Yes	8 post conception weeks
+136	ERR1473087	sequencing batch:FC2014_045	carnegie stage 22	11815	46, xx	cerebellum		Yes	8 post conception weeks
+137	ERR1473088	sequencing batch:FC2014_045	9 post conception weeks	11820	46, xx	cerebellum	right	Yes	9 post conception weeks
+138	ERR1473089	sequencing batch:FC2014_045	carnegie stage 22	11828	46, xx	cerebellum		Yes	8 post conception weeks
+139	ERR1473090	sequencing batch:FC2014_048	carnegie stage 22	11829	46, xy	cerebellum		Yes	8 post conception weeks
+140	ERR1473091	sequencing batch:FC2014_048	carnegie stage 22	11831	46, xy	cerebellum		Yes	8 post conception weeks
+141	ERR1473092	sequencing batch:FC2014_048	carnegie stage 22	11858	46, xy	cerebellum		Yes	8 post conception weeks
+142	ERR1473093	sequencing batch:FC2014_048	carnegie stage 22	11865	46, xy	cerebellum		Yes	8 post conception weeks
+143	ERR1473094	sequencing batch:FC2014_048	carnegie stage 22	11871	46, xx	cerebellum		No	8 post conception weeks
+144	ERR1473095	sequencing batch:FC2014_048	carnegie stage 22	11878	46, xx	cerebellum	right	No	8 post conception weeks
+145	ERR1473096	sequencing batch:FC2014_048	carnegie stage 23	11823	46, xy	cerebellum		No	8 post conception weeks
+146	ERR1473097	sequencing batch:FC2014_048	carnegie stage 23	11826	46, xx	cerebellum		No	8 post conception weeks
+147	ERR1473098	sequencing batch:FC2014_048	carnegie stage 23	11827	46, xx	cerebellum		No	8 post conception weeks
+148	ERR1473099	sequencing batch:FC2014_048	carnegie stage 23	11846	46, xx	cerebellum		No	8 post conception weeks
+149	ERR1473100	sequencing batch:FC2014_048	carnegie stage 23	11884	46, xx	cerebellum		No	8 post conception weeks
+150	ERR1473101	sequencing batch:FC2014_048	carnegie stage 23	11918	46, xx	cerebellum		No	8 post conception weeks
+151	ERR1473102	sequencing batch:FC2014_045	9 post conception weeks	11845	46, xy	cerebellum		Yes	9 post conception weeks
+152	ERR1473103	sequencing batch:FC2014_045	9 post conception weeks	11851	46, xx	cerebellum		Yes	9 post conception weeks
+153	ERR1473104	sequencing batch:FC2014_045	9 post conception weeks	11873	46, xx	cerebellum		Yes	9 post conception weeks
+154	ERR1473105	sequencing batch:FC2014_081	9 post conception weeks	11912	46, xy	cerebellum		Yes	9 post conception weeks
+155	ERR1473106	sequencing batch:FC2014_050	late 8 post conception weeks	11832	46, xx	cerebellum		Yes	8 post conception weeks
+156	ERR1473107	sequencing batch:FC2014_050	late 8 post conception weeks	11830	46, xx	cerebellum		Yes	8 post conception weeks
+157	ERR1473108	sequencing batch:FC2014_050	16 post conception weeks	11907	46, xx	cerebellum	right	Yes	16 post conception weeks
+158	ERR1473109	sequencing batch:FC2014_089	13 post conception weeks	1923	46, xx	cerebellum		Yes	13 post conception weeks
+159	ERR1473110	sequencing batch:FC2014_058	13 post conception weeks	11947	46, xx	cerebellum		Yes	13 post conception weeks
+160	ERR1473111	sequencing batch:FC2014_058	12 post conception weeks	11854	46, xy	cerebellum		No	12 post conception weeks
+161	ERR1473112	sequencing batch:FC2014_065	12 post conception weeks	11834	46, xy	cerebellum		Yes	12 post conception weeks
+162	ERR1473113	sequencing batch:FC2014_065	12 post conception weeks	1102	46, xx	cerebellum		Yes	12 post conception weeks
+163	ERR1473114	sequencing batch:FC2014_065	12 post conception weeks	11885	46, xy	cerebellum		Yes	12 post conception weeks
+164	ERR1473115	sequencing batch:FC2014_065	11 post conception weeks	11602	46, xy	cerebellum		Yes	11 post conception weeks
+165	ERR1473116	sequencing batch:FC2014_075	11 post conception weeks	11833	46, xx	cerebellum		Yes	11 post conception weeks
+166	ERR1473117	sequencing batch:FC2014_089	11 post conception weeks	11930	46, xx	cerebellum		Yes	11 post conception weeks
+167	ERR1473118	sequencing batch:FC2014_089	11 post conception weeks	11942	46, xx	cerebellum		Yes	11 post conception weeks
+168	ERR1473119	sequencing batch:FC2014_065	10 post conception weeks	1308	46, xx	cerebellum		Yes	10 post conception weeks
+169	ERR1473120	sequencing batch:FC2014_065	10 post conception weeks	11841	46, xy	cerebellum		Yes	10 post conception weeks
+170	ERR1473121	sequencing batch:FC2014_073	17 post conception weeks	11921	46, xy	cerebellum		Yes	17 post conception weeks
+171	ERR1473151	sequencing batch:FC2014_038	carnegie stage 23	11826	46, xx	cerebral cortex	left	Yes	8 post conception weeks
+172	ERR1473152	sequencing batch:FC2014_038	carnegie stage 23	11826	46, xx	cerebral cortex	right	Yes	8 post conception weeks
+173	ERR1473153	sequencing batch:FC2014_038	carnegie stage 23	11827	46, xx	cerebral cortex	right	Yes	8 post conception weeks
+174	ERR1473154	sequencing batch:FC2014_030	carnegie stage 23	11827	46, xx	cerebral cortex	left	Yes	8 post conception weeks
+175	ERR1473155	sequencing batch:FC2014_030	carnegie stage 23	11846	46, xx	cerebral cortex	left	Yes	8 post conception weeks
+176	ERR1473156	sequencing batch:FC2014_030	carnegie stage 23	11846	46, xx	cerebral cortex	right	Yes	8 post conception weeks
+177	ERR1473157	sequencing batch:FC2014_030	carnegie stage 23	11918	46, xx	cerebral cortex	left	Yes	8 post conception weeks
+178	ERR1473158	sequencing batch:FC2014_030	carnegie stage 23	11918	46, xx	cerebral cortex	right	Yes	8 post conception weeks
+179	ERR1473159	sequencing batch:FC2014_035	carnegie stage 22	11831	46, xy	cerebral cortex	left	Yes	8 post conception weeks
+180	ERR1473160	sequencing batch:FC2014_035	carnegie stage 22	11831	46, xy	cerebral cortex	right	Yes	8 post conception weeks
+181	ERR1473161	sequencing batch:FC2014_037	carnegie stage 22	11858	46, xy	cerebral cortex		Yes	8 post conception weeks
+182	ERR1473162	sequencing batch:FC2014_043	9 post conception weeks	11851	46, xx	cerebral cortex	right	Yes	9 post conception weeks
+183	ERR1473163	sequencing batch:FC2014_043	9 post conception weeks	11851	46, xx	cerebral cortex	right	Yes	9 post conception weeks
+184	ERR1473164	sequencing batch:FC2014_066	9 post conception weeks	11851	46, xx	cerebral cortex	left	Yes	9 post conception weeks
+185	ERR1473165	sequencing batch:FC2014_066	9 post conception weeks	11851	46, xx	cerebral cortex	left	Yes	9 post conception weeks
+186	ERR1473166	sequencing batch:FC2014_066	9 post conception weeks	11851	46, xx	cerebral cortex	right	Yes	9 post conception weeks
+187	ERR1473167	sequencing batch:FC2014_066	9 post conception weeks	11851	46, xx	cerebral cortex	right	Yes	9 post conception weeks
+188	ERR1473168	sequencing batch:FC2014_066	9 post conception weeks	11851	46, xx	cerebral cortex	right	Yes	9 post conception weeks
+189	ERR1473169	sequencing batch:FC2014_150	late 8 post conception weeks	11832	46, xx	cerebral cortex	right	Yes	8 post conception weeks
+190	ERR1473170	sequencing batch:FC2014_150	late 8 post conception weeks	11832	46, xx	cerebral cortex	left	Yes	8 post conception weeks
+191	ERR1473171	sequencing batch:FC2014_071	late 8 post conception weeks	11830	46, xx	cerebral cortex	left	Yes	8 post conception weeks
+192	ERR1473172	sequencing batch:FC2014_054, FC2014_117	carnegie stage 23	11920	46, xy	cerebral cortex	left	Yes	8 post conception weeks
+193	ERR1473173	sequencing batch:FC2014_054, FC2014_117	carnegie stage 23	11920	46, xy	cerebral cortex	left	Yes	8 post conception weeks
+194	ERR1473174	sequencing batch:FC2014_055	13 post conception weeks	11892	46, xy	cerebral cortex		Yes	13 post conception weeks
+195	ERR1473175	sequencing batch:FC2014_047	11 post conception weeks	11656	46, xx	cerebral cortex	left	Yes	11 post conception weeks
+196	ERR1473176	sequencing batch:FC2014_044	10 post conception weeks	11841	46, xy	cerebral cortex	left	Yes	10 post conception weeks
+197	ERR1473177	sequencing batch:FC2014_049	carnegie stage 20	11121	46, xy	cerebral cortex		Yes	8 post conception weeks
+198	ERR1473178	sequencing batch:FC2014_073	16 post conception weeks	1107	unknown	cerebral cortex	right	Yes	16 post conception weeks
+199	ERR1473179	sequencing batch:FC2014_054	15 post conception weeks	1117	unknown	cerebral cortex	left	Yes	15 post conception weeks
+200	ERR1473180	sequencing batch:FC2014_055	13 post conception weeks	1923	46, xx	cerebral cortex	right	Yes	13 post conception weeks
+201	ERR1473181	sequencing batch:FC2014_055	13 post conception weeks	1923	46, xx	cerebral cortex	left	Yes	13 post conception weeks
+202	ERR1473182	sequencing batch:FC2014_055	12 post conception weeks	11834	46, xy	cerebral cortex	right	Yes	12 post conception weeks
+203	ERR1473183	sequencing batch:FC2014_032	9 post conception weeks	11820	46, xx	cerebral cortex	right	Yes	9 post conception weeks
+204	ERR1473184	sequencing batch:FC2014_032	9 post conception weeks	11820	46, xx	cerebral cortex	left	Yes	9 post conception weeks
+205	ERR1473185	sequencing batch:FC2014_055	12 post conception weeks	1835	46, xy	cerebral cortex		Yes	12 post conception weeks
+206	ERR1473186	sequencing batch:FC2014_040	9 post conception weeks	11845	46, xy	cerebral cortex	left	Yes	9 post conception weeks
+207	ERR1473187	sequencing batch:FC2014_043	9 post conception weeks	11845	46, xy	cerebral cortex	right	Yes	9 post conception weeks
+208	ERR1473188	sequencing batch:FC2014_066	9 post conception weeks	11873	46, xx	cerebral cortex	right	Yes	9 post conception weeks
+209	ERR1473189	sequencing batch:FC2014_075	9 post conception weeks	11873	46, xx	cerebral cortex	left	Yes	9 post conception weeks
+210	ERR1473190	sequencing batch:FC2014_054	16 post conception weeks	11907	46, xx	cerebral cortex	right	Yes	16 post conception weeks
+211	ERR1473191	sequencing batch:FC2014_055	14 post conception weeks	11900	46, xy	cerebral cortex		Yes	14 post conception weeks
+212	ERR1473192	sequencing batch:FC2014_058	12 post conception weeks	11834	46, xy	cerebral cortex	left	Yes	12 post conception weeks
+213	ERR1473193	sequencing batch:FC2014_058	12 post conception weeks	11885	46, xy	cerebral cortex	left	Yes	12 post conception weeks
+214	ERR1473194	sequencing batch:FC2014_058	12 post conception weeks	11885	46, xy	cerebral cortex	right	Yes	12 post conception weeks
+215	ERR1473195	sequencing batch:FC2014_044	11 post conception weeks	11833	46, xx	cerebral cortex	right	Yes	11 post conception weeks
+216	ERR1473196	sequencing batch:FC2014_075	11 post conception weeks	11930	46, xx	cerebral cortex	right	Yes	11 post conception weeks
+217	ERR1473197	sequencing batch:FC2014_044	11 post conception weeks	11942	46, xx	cerebral cortex	left	Yes	11 post conception weeks
+218	ERR1473198	sequencing batch:FC2014_044	10 post conception weeks	11841	46, xy	cerebral cortex	right	Yes	10 post conception weeks
+219	ERR1473199	sequencing batch:FC2014_044	17 post conception weeks	11921	46, xy	cerebral cortex	left	Yes	17 post conception weeks
+220	ERR1473200	sequencing batch:FC2014_081	12 post conception weeks	12007	46, xy	cerebral cortex	left	Yes	12 post conception weeks
+221	ERR1473201	sequencing batch:FC2014_081	11 post conception weeks	11930	46, xx	cerebral cortex	left	Yes	11 post conception weeks
+222	ERR1473202	sequencing batch:FC2014_089	12 post conception weeks	12007	46, xy	cerebral cortex	right	Yes	12 post conception weeks
+223	ERR1473203	sequencing batch:FC2014_054	15 post conception weeks	1117	unknown	cerebral cortex	left	Yes	15 post conception weeks
+224	ERR1473204	sequencing batch:FC2014_055	13 post conception weeks	1923	46, xx	cerebral cortex	right	Yes	13 post conception weeks
+225	ERR1473205	sequencing batch:FC2014_058	13 post conception weeks	1923	46, xx	cerebral cortex	left	Yes	13 post conception weeks
+226	ERR1473206	sequencing batch:FC2014_058	12 post conception weeks	11834	46, xy	cerebral cortex	right	Yes	12 post conception weeks
+227	ERR1473207	sequencing batch:FC2014_055	12 post conception weeks	1835	46, xy	cerebral cortex		Yes	12 post conception weeks
+228	ERR1473208	sequencing batch:FC2014_054	16 post conception weeks	11907	46, xx	cerebral cortex	right	Yes	16 post conception weeks
+229	ERR1473209	sequencing batch:FC2014_055	14 post conception weeks	11900	46, xy	cerebral cortex		Yes	14 post conception weeks
+230	ERR1473210	sequencing batch:FC2014_043	12 post conception weeks	11885	46, xy	cerebral cortex	right	Yes	12 post conception weeks
+231	ERR1473211	sequencing batch:FC2014_044	11 post conception weeks	11833	46, xx	cerebral cortex	right	Yes	11 post conception weeks
+232	ERR1473212	sequencing batch:FC2014_044	10 post conception weeks	11841	46, xy	cerebral cortex	right	Yes	10 post conception weeks
+233	ERR1473213	sequencing batch:FC2014_044	17 post conception weeks	11921	46, xy	cerebral cortex	left	Yes	17 post conception weeks
+234	ERR1473214	sequencing batch:FC2014_080	9 post conception weeks	11851	46, xx	cerebral cortex	left	Yes	9 post conception weeks
+235	ERR1473215	sequencing batch:FC2014_080	12 post conception weeks	12007	46, xy	cerebral cortex	right	Yes	12 post conception weeks
+236	ERR1473216	sequencing batch:FC2014_081	11 post conception weeks	11930	46, xx	cerebral cortex	left	Yes	11 post conception weeks
+237	ERR1473217	sequencing batch:FC2014_081	11 post conception weeks	11930	46, xx	cerebral cortex	right	Yes	11 post conception weeks
+238	ERR1473218	sequencing batch:FC2014_054	16 post conception weeks	1107	unknown	cerebral cortex	right	Yes	16 post conception weeks
+239	ERR1473219	sequencing batch:FC2014_054	15 post conception weeks	1117	unknown	cerebral cortex	left	Yes	15 post conception weeks
+240	ERR1473220	sequencing batch:FC2014_058	13 post conception weeks	1923	46, xx	cerebral cortex	right	Yes	13 post conception weeks
+241	ERR1473221	sequencing batch:FC2014_058	12 post conception weeks	11834	46, xy	cerebral cortex	right	Yes	12 post conception weeks
+242	ERR1473222	sequencing batch:FC2014_035	9 post conception weeks	11820	46, xx	cerebral cortex	left	Yes	9 post conception weeks
+243	ERR1473223	sequencing batch:FC2014_055	12 post conception weeks	1835	46, xy	cerebral cortex		Yes	12 post conception weeks
+244	ERR1473224	sequencing batch:FC2014_081	9 post conception weeks	11820	46, xy	cerebral cortex	right	Yes	9 post conception weeks
+245	ERR1473225	sequencing batch:FC2014_043	9 post conception weeks	11845	46, xy	cerebral cortex	left	Yes	9 post conception weeks
+246	ERR1473226	sequencing batch:FC2014_066	9 post conception weeks	11873	46, xx	cerebral cortex	left	Yes	9 post conception weeks
+247	ERR1473227	sequencing batch:FC2014_054	16 post conception weeks	11907	46, xx	cerebral cortex	right	Yes	16 post conception weeks
+248	ERR1473228	sequencing batch:FC2014_043	12 post conception weeks	11885	46, xy	cerebral cortex	right	Yes	12 post conception weeks
+249	ERR1473229	sequencing batch:FC2014_043	11 post conception weeks	11833	46, xx	cerebral cortex	right	Yes	11 post conception weeks
+250	ERR1473230	sequencing batch:FC2014_080	9 post conception weeks	11851	46, xx	cerebral cortex	left	Yes	9 post conception weeks
+251	ERR1473231	sequencing batch:FC2014_080	12 post conception weeks	12007	46, xy	cerebral cortex	right	Yes	12 post conception weeks
+252	ERR1473232	sequencing batch:FC2014_081	11 post conception weeks	11930	46, xx	cerebral cortex	left	Yes	11 post conception weeks
+253	ERR1473233	sequencing batch:FC2014_081	11 post conception weeks	11930	46, xx	cerebral cortex	right	Yes	11 post conception weeks
+254	ERR1473234	sequencing batch:FC2014_073	16 post conception weeks	1107	unknown	cerebral cortex	right	Yes	16 post conception weeks
+255	ERR1473235	sequencing batch:FC2014_054	16 post conception weeks	1107	unknown	cerebral cortex	right	Yes	16 post conception weeks
+256	ERR1473236	sequencing batch:FC2014_054	15 post conception weeks	1117	unknown	cerebral cortex	left	Yes	15 post conception weeks
+257	ERR1473237	sequencing batch:FC2014_032	9 post conception weeks	11820	46, xx	cerebral cortex	right	Yes	9 post conception weeks
+258	ERR1473238	sequencing batch:FC2014_035	9 post conception weeks	11820	46, xx	cerebral cortex	left	Yes	9 post conception weeks
+259	ERR1473239	sequencing batch:FC2014_058	12 post conception weeks	1835	46, xy	cerebral cortex		Yes	12 post conception weeks
+260	ERR1473240	sequencing batch:FC2014_043	9 post conception weeks	11845	46, xy	cerebral cortex	left	Yes	9 post conception weeks
+261	ERR1473241	sequencing batch:FC2014_066	9 post conception weeks	11873	46, xx	cerebral cortex	left	Yes	9 post conception weeks
+262	ERR1473242	sequencing batch:FC2014_054	16 post conception weeks	11907	46, xx	cerebral cortex	right	Yes	16 post conception weeks
+263	ERR1473243	sequencing batch:FC2014_055	14 post conception weeks	11900	46, xy	cerebral cortex		Yes	14 post conception weeks
+264	ERR1473244	sequencing batch:FC2014_058	12 post conception weeks	11834	46, xy	cerebral cortex	left	Yes	12 post conception weeks
+265	ERR1473245	sequencing batch:FC2014_043	12 post conception weeks	11885	46, xy	cerebral cortex	right	Yes	12 post conception weeks
+266	ERR1473246	sequencing batch:FC2014_047	11 post conception weeks	11833	46, xx	cerebral cortex	right	Yes	11 post conception weeks
+267	ERR1473247	sequencing batch:FC2014_080	9 post conception weeks	11851	46, xx	cerebral cortex	left	Yes	9 post conception weeks
+268	ERR1473248	sequencing batch:FC2014_080	12 post conception weeks	12007	46, xy	cerebral cortex	left	Yes	12 post conception weeks
+269	ERR1473249	sequencing batch:FC2014_081	11 post conception weeks	11930	46, xx	cerebral cortex	left	Yes	11 post conception weeks
+270	ERR1473250	sequencing batch:FC2014_081	11 post conception weeks	11930	46, xx	cerebral cortex	right	Yes	11 post conception weeks
+271	ERR1473251	sequencing batch:FC2014_054	15 post conception weeks	1117	unknown	cerebral cortex	left	Yes	15 post conception weeks
+272	ERR1473252	sequencing batch:FC2014_040	9 post conception weeks	11845	46, xy	cerebral cortex	left	Yes	9 post conception weeks
+273	ERR1473253	sequencing batch:FC2014_043	9 post conception weeks	11845	46, xy	cerebral cortex	right	Yes	9 post conception weeks
+274	ERR1473254	sequencing batch:FC2014_066	9 post conception weeks	11873	46, xx	cerebral cortex	right	Yes	9 post conception weeks
+275	ERR1473255	sequencing batch:FC2014_066	9 post conception weeks	11873	46, xx	cerebral cortex	left	Yes	9 post conception weeks
+276	ERR1473256	sequencing batch:FC2014_054	16 post conception weeks	11907	46, xx	cerebral cortex	right	Yes	16 post conception weeks
+277	ERR1473257	sequencing batch:FC2014_055	14 post conception weeks	11900	46, xy	cerebral cortex		Yes	14 post conception weeks
+278	ERR1473258	sequencing batch:FC2014_058	12 post conception weeks	11834	46, xy	cerebral cortex	left	Yes	12 post conception weeks
+279	ERR1473259	sequencing batch:FC2014_069	12 post conception weeks	11834	46, xy	cerebral cortex	left	Yes	12 post conception weeks
+280	ERR1473260	sequencing batch:FC2014_058	12 post conception weeks	11885	46, xy	cerebral cortex	left	Yes	12 post conception weeks
+281	ERR1473261	sequencing batch:FC2014_043	12 post conception weeks	11885	46, xy	cerebral cortex	right	Yes	12 post conception weeks
+282	ERR1473262	sequencing batch:FC2014_047	11 post conception weeks	11833	46, xx	cerebral cortex	right	Yes	11 post conception weeks
+283	ERR1473263	sequencing batch:FC2014_075	11 post conception weeks	11930	46, xx	cerebral cortex	right	Yes	11 post conception weeks
+284	ERR1473264	sequencing batch:FC2014_044	10 post conception weeks	11841	46, xy	cerebral cortex	right	Yes	10 post conception weeks
+285	ERR1473265	sequencing batch:FC2014_044, FC2014_117	17 post conception weeks	11921	46, xy	cerebral cortex	left	Yes	17 post conception weeks
+286	ERR1473266	sequencing batch:FC2014_044, FC2014_117	17 post conception weeks	11921	46, xy	cerebral cortex	left	Yes	17 post conception weeks
+287	ERR1473267	sequencing batch:FC2014_080	11 post conception weeks	11942	46, xx	cerebral cortex	right	Yes	11 post conception weeks
+288	ERR1473268	sequencing batch:FC2014_080	12 post conception weeks	12007	46, xy	cerebral cortex	right	Yes	12 post conception weeks
+289	ERR1473269	sequencing batch:FC2014_080	11 post conception weeks	11930	46, xx	cerebral cortex	left	Yes	11 post conception weeks
+290	ERR1473270	sequencing batch:FC2014_081	12 post conception weeks	12007	46, xy	cerebral cortex	left	Yes	12 post conception weeks
+291	ERR1473271	sequencing batch:FC2014_054	15 post conception weeks	1117	unknown	cerebral cortex	left	Yes	15 post conception weeks
+292	ERR1473272	sequencing batch:FC2014_054	15 post conception weeks	1117	unknown	cerebral cortex	left	Yes	15 post conception weeks
+293	ERR1473273	sequencing batch:FC2014_054	16 post conception weeks	1107	unknown	cerebral cortex	right	Yes	16 post conception weeks
+294	ERR1473274	sequencing batch:FC2014_054	15 post conception weeks	1117	unknown	cerebral cortex	left	Yes	15 post conception weeks
+295	ERR1473275	sequencing batch:FC2014_038	carnegie stage 23	1406	46, xx	diencephalon		Yes	8 post conception weeks
+296	ERR1473276	sequencing batch:FC2014_038	carnegie stage 23	11823	46, xy	diencephalon	left	Yes	8 post conception weeks
+297	ERR1473277	sequencing batch:FC2014_038, FC2014_117	carnegie stage 23	11823	46, xy	diencephalon	right	Yes	8 post conception weeks
+298	ERR1473278	sequencing batch:FC2014_038, FC2014_117	carnegie stage 23	11823	46, xy	diencephalon	right	Yes	8 post conception weeks
+299	ERR1473279	sequencing batch:FC2014_038	carnegie stage 23	11826	46, xx	diencephalon	left	Yes	8 post conception weeks
+300	ERR1473280	sequencing batch:FC2014_038	carnegie stage 23	11826	46, xx	diencephalon	right	Yes	8 post conception weeks
+301	ERR1473281	sequencing batch:FC2014_038	carnegie stage 23	11827	46, xx	diencephalon	left	Yes	8 post conception weeks
+302	ERR1473282	sequencing batch:FC2014_032, FC2014_117	carnegie stage 23	11827	46, xx	diencephalon	right	Yes	8 post conception weeks
+303	ERR1473283	sequencing batch:FC2014_032, FC2014_117	carnegie stage 23	11827	46, xx	diencephalon	right	Yes	8 post conception weeks
+304	ERR1473284	sequencing batch:FC2014_030	carnegie stage 23	11846	46, xx	diencephalon	left	Yes	8 post conception weeks
+305	ERR1473285	sequencing batch:FC2014_030	carnegie stage 23	11846	46, xx	diencephalon	right	Yes	8 post conception weeks
+306	ERR1473286	sequencing batch:FC2014_030, FC2014_117	carnegie stage 23	11884	46, xx	diencephalon		Yes	8 post conception weeks
+307	ERR1473287	sequencing batch:FC2014_030, FC2014_117	carnegie stage 23	11884	46, xx	diencephalon		Yes	8 post conception weeks
+308	ERR1473288	sequencing batch:FC2014_030, FC2014_151	carnegie stage 23	11918	46, xx	diencephalon		Yes	8 post conception weeks
+309	ERR1473289	sequencing batch:FC2014_030, FC2014_151	carnegie stage 23	11918	46, xx	diencephalon		Yes	8 post conception weeks
+310	ERR1473290	sequencing batch:FC2014_035	9 post conception weeks	11820	46, xx	diencephalon		Yes	9 post conception weeks
+311	ERR1473291	sequencing batch:FC2014_035, FC2014_117	carnegie stage 22	11831	46, xy	diencephalon	left	Yes	8 post conception weeks
+312	ERR1473292	sequencing batch:FC2014_035, FC2014_117	carnegie stage 22	11831	46, xy	diencephalon	left	Yes	8 post conception weeks
+313	ERR1473293	sequencing batch:FC2014_030	carnegie stage 22	11831	46, xy	diencephalon	right	Yes	8 post conception weeks
+314	ERR1473294	sequencing batch:FC2014_037	carnegie stage 22	11878	46, xx	diencephalon		Yes	8 post conception weeks
+315	ERR1473295	sequencing batch:FC2014_043	9 post conception weeks	11845	46, xy	diencephalon	left	Yes	9 post conception weeks
+316	ERR1473296	sequencing batch:FC2014_043	9 post conception weeks	11845	46, xy	diencephalon	left	Yes	9 post conception weeks
+317	ERR1473297	sequencing batch:FC2014_043	9 post conception weeks	11845	46, xy	diencephalon	right	Yes	9 post conception weeks
+318	ERR1473298	sequencing batch:FC2014_075	9 post conception weeks	11873	46, xx	diencephalon	left	Yes	9 post conception weeks
+319	ERR1473299	sequencing batch:FC2014_066	9 post conception weeks	11873	46, xx	diencephalon	right	Yes	9 post conception weeks
+320	ERR1473300	sequencing batch:FC2014_065, FC2014_117	late 8 post conception weeks	11832	46, xx	diencephalon	left	Yes	8 post conception weeks
+321	ERR1473301	sequencing batch:FC2014_065, FC2014_117	late 8 post conception weeks	11832	46, xx	diencephalon	left	Yes	8 post conception weeks
+322	ERR1473302	sequencing batch:FC2014_071	late 8 post conception weeks	11832	46, xx	diencephalon	right	Yes	8 post conception weeks
+323	ERR1473303	sequencing batch:FC2014_071	late 8 post conception weeks	11830	46, xx	diencephalon	left	Yes	8 post conception weeks
+324	ERR1473304	sequencing batch:FC2014_071	late 8 post conception weeks	11830	46, xx	diencephalon	right	Yes	8 post conception weeks
+325	ERR1473305	sequencing batch:FC2014_054, FC2014_117	16 post conception weeks	11907	46, xx	diencephalon	right	Yes	16 post conception weeks
+326	ERR1473306	sequencing batch:FC2014_054, FC2014_117	16 post conception weeks	11907	46, xx	diencephalon	right	Yes	16 post conception weeks
+327	ERR1473307	sequencing batch:FC2014_055	13 post conception weeks	1923	46, xx	diencephalon	left	Yes	13 post conception weeks
+328	ERR1473308	sequencing batch:FC2014_055, FC2014_117	13 post conception weeks	1923	46, xx	diencephalon	right	Yes	13 post conception weeks
+329	ERR1473309	sequencing batch:FC2014_055, FC2014_117	13 post conception weeks	1923	46, xx	diencephalon	right	Yes	13 post conception weeks
+330	ERR1473310	sequencing batch:FC2014_047	12 post conception weeks	11885	46, xy	diencephalon		Yes	12 post conception weeks
+331	ERR1473311	sequencing batch:FC2014_047	11 post conception weeks	11833	46, xx	diencephalon	left	Yes	11 post conception weeks
+332	ERR1473312	sequencing batch:FC2014_047	11 post conception weeks	11833	46, xx	diencephalon	right	Yes	11 post conception weeks
+333	ERR1473313	sequencing batch:FC2014_044	11 post conception weeks	11930	46, xx	diencephalon		Yes	11 post conception weeks
+334	ERR1473314	sequencing batch:FC2014_044	11 post conception weeks	11942	46, xx	diencephalon	left	Yes	11 post conception weeks
+335	ERR1473315	sequencing batch:FC2014_044	10 post conception weeks	1890	unknown	diencephalon		Yes	10 post conception weeks
+336	ERR1473316	sequencing batch:FC2014_044	10 post conception weeks	11841	46, xy	diencephalon	left	Yes	10 post conception weeks
+337	ERR1473317	sequencing batch:FC2014_044	10 post conception weeks	11841	46, xy	diencephalon	right	Yes	10 post conception weeks
+338	ERR1473318	sequencing batch:FC2014_045	13 post conception weeks	11947	46, xx	diencephalon	right	Yes	13 post conception weeks
+339	ERR1473319	sequencing batch:FC2014_048	carnegie stage 23	11920	46, xy	diencephalon		No	8 post conception weeks
+340	ERR1473320	sequencing batch:FC2014_050	14 post conception weeks	1290	46, xy	diencephalon		Yes	14 post conception weeks
+341	ERR1473321	sequencing batch:FC2014_065	10 post conception weeks	1046	46, xx	diencephalon	right	Yes	10 post conception weeks
+342	ERR1473322	sequencing batch:FC2014_080	11 post conception weeks	11942	46, xx	diencephalon	right	Yes	11 post conception weeks
+343	ERR1473323	sequencing batch:FC2014_080	12 post conception weeks	12007	46, xy	diencephalon	right	Yes	12 post conception weeks
+344	ERR1473324	sequencing batch:FC2014_080	12 post conception weeks	12007	46, xy	diencephalon	left	Yes	12 post conception weeks
+345	ERR1473325	sequencing batch:FC2014_055	14 post conception weeks	11900	46, xy	diencephalon and midbrain		Yes	14 post conception weeks
+346	ERR1473326	sequencing batch:FC2014_035	carnegie stage 23	11848	46, xy	forebrain	right	Yes	8 post conception weeks
+347	ERR1473327	sequencing batch:FC2014_035, FC2014_117	carnegie stage 23	11848	46, xy	forebrain	left	Yes	8 post conception weeks
+348	ERR1473328	sequencing batch:FC2014_035, FC2014_117	carnegie stage 23	11848	46, xy	forebrain	left	Yes	8 post conception weeks
+349	ERR1473329	sequencing batch:FC2014_032	carnegie stage 22	11815	46, xx	forebrain		Yes	8 post conception weeks
+350	ERR1473330	sequencing batch:FC2014_037	carnegie stage 18	11904	46, xy	forebrain		Yes	7 post conception weeks
+351	ERR1473331	sequencing batch:FC2014_037	carnegie stage 17	11931	unknown	forebrain		Yes	6 post conception weeks
+352	ERR1473332	sequencing batch:FC2014_037	carnegie stage 14	11840	46, xx	forebrain		Yes	5 post conception weeks
+353	ERR1473333	sequencing batch:FC2014_037	carnegie stage 14	11837	46, xy	forebrain		Yes	5 post conception weeks
+354	ERR1473334	sequencing batch:FC2014_037	carnegie stage 13	11903	46, xx	forebrain		Yes	4 post conception weeks
+355	ERR1473335	sequencing batch:FC2014_037	9 post conception weeks	11810	46, xx	forebrain		Yes	9 post conception weeks
+356	ERR1473336	sequencing batch:FC2014_066	9 post conception weeks	11606	46, xy	forebrain	left	Yes	9 post conception weeks
+357	ERR1473337	sequencing batch:FC2014_066	9 post conception weeks	11606	46, xy	forebrain	right	Yes	9 post conception weeks
+358	ERR1473338	sequencing batch:FC2014_069	12 post conception weeks	1102	46, xx	forebrain	left	Yes	12 post conception weeks
+359	ERR1473339	sequencing batch:FC2014_069	12 post conception weeks	1558	46, xx	forebrain	left	Yes	12 post conception weeks
+360	ERR1473340	sequencing batch:FC2014_069	12 post conception weeks	1558	46, xx	forebrain	right	Yes	12 post conception weeks
+361	ERR1473341	sequencing batch:FC2014_047	11 post conception weeks	11602	46, xy	forebrain	left	Yes	11 post conception weeks
+362	ERR1473342	sequencing batch:FC2014_047	11 post conception weeks	11602	46, xy	forebrain	right	Yes	11 post conception weeks
+363	ERR1473343	sequencing batch:FC2014_044	10 post conception weeks	1281	46, xy	forebrain	left	Yes	10 post conception weeks
+364	ERR1473344	sequencing batch:FC2014_044	10 post conception weeks	1281	46, xy	forebrain	right	Yes	10 post conception weeks
+365	ERR1473345	sequencing batch:FC2014_049	carnegie stage 20	11118	46, xx	forebrain		Yes	8 post conception weeks
+366	ERR1473346	sequencing batch:FC2014_044	10 post conception weeks	1308	46, xx	forebrain and midbrain		Yes	10 post conception weeks
+367	ERR1473347	sequencing batch:FC2014_035	carnegie stage 22	11871	46, xx	forebrain fragment	left	Yes	8 post conception weeks
+368	ERR1473348	sequencing batch:FC2014_066	9 post conception weeks	11874	46, xy	forebrain fragment		Yes	9 post conception weeks
+369	ERR1473349	sequencing batch:FC2014_150	9 post conception weeks	11626	46, xx	forebrain fragment		Yes	9 post conception weeks
+370	ERR1473350	sequencing batch:FC2014_055	13 post conception weeks	11844	46, xy	forebrain fragment	left	Yes	13 post conception weeks
+371	ERR1473351	sequencing batch:FC2014_047	11 post conception weeks	11893	46, xx	forebrain fragment	left	Yes	11 post conception weeks
+372	ERR1473352	sequencing batch:FC2014_037	carnegie stage 21	11882	46, xx	forebrain	frontal	Yes	8 post conception weeks
+373	ERR1473353	sequencing batch:FC2014_035	carnegie stage 23	11848	46, xy	hindbrain	left	Yes	8 post conception weeks
+374	ERR1473354	sequencing batch:FC2014_030	carnegie stage 23	11824	46, xy	hindbrain		Yes	8 post conception weeks
+375	ERR1473355	sequencing batch:FC2014_032	9 post conception weeks	11820	46, xx	hindbrain	right	Yes	9 post conception weeks
+376	ERR1473356	sequencing batch:FC2014_037	carnegie stage 21	11882	46, xx	hindbrain		Yes	8 post conception weeks
+377	ERR1473357	sequencing batch:FC2014_037	carnegie stage 19	11856	46, xy	hindbrain		Yes	7 post conception weeks
+378	ERR1473358	sequencing batch:FC2014_037	carnegie stage 17	11931	unknown	hindbrain		Yes	6 post conception weeks
+379	ERR1473359	sequencing batch:FC2014_150	9 post conception weeks	11881	46, xy	hindbrain		Yes	9 post conception weeks
+380	ERR1473360	sequencing batch:FC2014_073	late 8 post conception weeks	11869	46, xx	hindbrain		Yes	8 post conception weeks
+381	ERR1473361	sequencing batch:FC2014_054	carnegie stage 23	11920	46, xy	hindbrain		Yes	8 post conception weeks
+382	ERR1473362	sequencing batch:FC2014_055	14 post conception weeks	11900	46, xy	hindbrain	left	Yes	14 post conception weeks
+383	ERR1473363	sequencing batch:FC2014_055	14 post conception weeks	11900	46, xy	hindbrain	right	Yes	14 post conception weeks
+384	ERR1473364	sequencing batch:FC2014_043	12 post conception weeks	11885	46, xy	hindbrain		Yes	12 post conception weeks
+385	ERR1473365	sequencing batch:FC2014_045	carnegie stage 20	11287	46, xy	hindbrain		Yes	8 post conception weeks
+386	ERR1473366	sequencing batch:FC2014_048	carnegie stage 23	1406	46, xx	hindbrain		No	8 post conception weeks
+387	ERR1473367	sequencing batch:FC2014_048	carnegie stage 23	11848	46, xy	hindbrain	right	No	8 post conception weeks
+388	ERR1473368	sequencing batch:FC2014_048	carnegie stage 20	11149	46, xx	hindbrain		No	8 post conception weeks
+389	ERR1473369	sequencing batch:FC2014_049	carnegie stage 19	1319	46, xx	hindbrain		Yes	7 post conception weeks
+390	ERR1473370	sequencing batch:FC2014_049	carnegie stage 18	11904	46, xy	hindbrain		Yes	7 post conception weeks
+391	ERR1473371	sequencing batch:FC2014_049	carnegie stage 18	11288	unknown	hindbrain		Yes	7 post conception weeks
+392	ERR1473372	sequencing batch:FC2014_049	carnegie stage 17	11748	unknown	hindbrain		Yes	6 post conception weeks
+393	ERR1473373	sequencing batch:FC2014_045	carnegie stage 14	11840	46, xx	hindbrain		Yes	5 post conception weeks
+394	ERR1473374	sequencing batch:FC2014_045	carnegie stage 14	11837	46, xy	hindbrain		Yes	5 post conception weeks
+395	ERR1473375	sequencing batch:FC2014_045	9 post conception weeks	11810	46, xx	hindbrain		Yes	9 post conception weeks
+396	ERR1473376	sequencing batch:FC2014_050	9 post conception weeks	11606	46, xy	hindbrain		Yes	9 post conception weeks
+397	ERR1473377	sequencing batch:FC2014_050	9 post conception weeks	11626	46, xx	hindbrain		Yes	9 post conception weeks
+398	ERR1473378	sequencing batch:FC2014_065	12 post conception weeks	1558	46, xx	hindbrain		Yes	12 post conception weeks
+399	ERR1473379	sequencing batch:FC2014_065	11 post conception weeks	11656	46, xx	hindbrain		Yes	11 post conception weeks
+400	ERR1473380	sequencing batch:FC2014_075	11 post conception weeks	11609	46, xx	hindbrain		Yes	11 post conception weeks
+401	ERR1473381	sequencing batch:FC2014_065	10 post conception weeks	1281	46, xy	hindbrain		Yes	10 post conception weeks
+402	ERR1473382	sequencing batch:FC2014_080	12 post conception weeks	11683	46, xx	hindbrain	right	Yes	12 post conception weeks
+403	ERR1473383	sequencing batch:FC2014_080	12 post conception weeks	11666	46, xy	hindbrain	left	Yes	12 post conception weeks
+404	ERR1473384	sequencing batch:FC2014_080	12 post conception weeks	11666	46, xy	hindbrain	right	Yes	12 post conception weeks
+405	ERR1473385	sequencing batch:FC2014_069	12 post conception weeks	1102	46, xx	hindbrain fragment		Yes	12 post conception weeks
+406	ERR1473386	sequencing batch:FC2014_032	carnegie stage 22	11814	46, xy	hindbrain without cerebellum	right	Yes	8 post conception weeks
+407	ERR1473387	sequencing batch:FC2014_032	carnegie stage 22	11815	46, xx	hindbrain without cerebellum		Yes	8 post conception weeks
+408	ERR1473388	sequencing batch:FC2014_055	12 post conception weeks	11834	46, xy	hindbrain without cerebellum		Yes	12 post conception weeks
+409	ERR1473389	sequencing batch:FC2014_050	17 post conception weeks	1115	unknown	hippocampus	right	Yes	17 post conception weeks
+410	ERR1473390	sequencing batch:FC2014_050	16 post conception weeks	1107	unknown	hippocampus	right	Yes	16 post conception weeks
+411	ERR1473391	sequencing batch:FC2014_038	carnegie stage 23	11823	46, xy	medulla oblongata		Yes	8 post conception weeks
+412	ERR1473392	sequencing batch:FC2014_038	carnegie stage 23	11826	46, xx	medulla oblongata		Yes	8 post conception weeks
+413	ERR1473393	sequencing batch:FC2014_038	carnegie stage 23	11827	46, xx	medulla oblongata		Yes	8 post conception weeks
+414	ERR1473394	sequencing batch:FC2014_030	carnegie stage 23	11846	46, xx	medulla oblongata		Yes	8 post conception weeks
+415	ERR1473395	sequencing batch:FC2014_030	carnegie stage 23	11884	46, xx	medulla oblongata		Yes	8 post conception weeks
+416	ERR1473396	sequencing batch:FC2014_030	carnegie stage 23	11918	46, xx	medulla oblongata		Yes	8 post conception weeks
+417	ERR1473397	sequencing batch:FC2014_035	carnegie stage 22	11828	46, xx	medulla oblongata		Yes	8 post conception weeks
+418	ERR1473398	sequencing batch:FC2014_035	carnegie stage 22	11829	46, xy	medulla oblongata		Yes	8 post conception weeks
+419	ERR1473399	sequencing batch:FC2014_035	carnegie stage 22	11831	46, xy	medulla oblongata		Yes	8 post conception weeks
+420	ERR1473400	sequencing batch:FC2014_043	carnegie stage 22	11858	46, xy	medulla oblongata		Yes	8 post conception weeks
+421	ERR1473401	sequencing batch:FC2014_035	carnegie stage 22	11871	46, xx	medulla oblongata		Yes	8 post conception weeks
+422	ERR1473402	sequencing batch:FC2014_037	carnegie stage 22	11878	46, xx	medulla oblongata	right	Yes	8 post conception weeks
+423	ERR1473403	sequencing batch:FC2014_043	9 post conception weeks	11845	46, xy	medulla oblongata		Yes	9 post conception weeks
+424	ERR1473404	sequencing batch:FC2014_043	9 post conception weeks	11851	46, xx	medulla oblongata		Yes	9 post conception weeks
+425	ERR1473405	sequencing batch:FC2014_066	9 post conception weeks	11873	46, xx	medulla oblongata		Yes	9 post conception weeks
+426	ERR1473406	sequencing batch:FC2014_066	9 post conception weeks	11912	46, xy	medulla oblongata		Yes	9 post conception weeks
+427	ERR1473407	sequencing batch:FC2014_065	late 8 post conception weeks	11832	46, xx	medulla oblongata		Yes	8 post conception weeks
+428	ERR1473408	sequencing batch:FC2014_071	late 8 post conception weeks	11830	46, xx	medulla oblongata		Yes	8 post conception weeks
+429	ERR1473409	sequencing batch:FC2014_054	16 post conception weeks	11907	46, xx	medulla oblongata	right	Yes	16 post conception weeks
+430	ERR1473410	sequencing batch:FC2014_058. FC2014_117	13 post conception weeks	1923	46, xx	medulla oblongata		Yes	13 post conception weeks
+431	ERR1473411	sequencing batch:FC2014_058. FC2014_117	13 post conception weeks	1923	46, xx	medulla oblongata		Yes	13 post conception weeks
+432	ERR1473412	sequencing batch:FC2014_047	11 post conception weeks	11833	46, xx	medulla oblongata		Yes	11 post conception weeks
+433	ERR1473413	sequencing batch:FC2014_044	11 post conception weeks	11930	46, xx	medulla oblongata		Yes	11 post conception weeks
+434	ERR1473414	sequencing batch:FC2014_044	10 post conception weeks	11841	46, xy	medulla oblongata		Yes	10 post conception weeks
+435	ERR1473415	sequencing batch:FC2014_044	13 post conception weeks	11947	46, xx	medulla oblongata		Yes	13 post conception weeks
+436	ERR1473416	sequencing batch:FC2014_065	10 post conception weeks	1890	unknown	medulla oblongata		Yes	10 post conception weeks
+437	ERR1473417	sequencing batch:FC2014_038	carnegie stage 23	1406	46, xx	midbrain		Yes	8 post conception weeks
+438	ERR1473418	sequencing batch:FC2014_038	carnegie stage 23	11823	46, xy	midbrain		Yes	8 post conception weeks
+439	ERR1473419	sequencing batch:FC2014_038	carnegie stage 23	11826	46, xx	midbrain		Yes	8 post conception weeks
+440	ERR1473420	sequencing batch:FC2014_038	carnegie stage 23	11827	46, xx	midbrain		Yes	8 post conception weeks
+441	ERR1473421	sequencing batch:FC2014_030	carnegie stage 23	11846	46, xx	midbrain		Yes	8 post conception weeks
+442	ERR1473422	sequencing batch:FC2014_035	carnegie stage 23	11848	46, xy	midbrain	right	Yes	8 post conception weeks
+443	ERR1473423	sequencing batch:FC2014_030	carnegie stage 23	11848	46, xy	midbrain	left	Yes	8 post conception weeks
+444	ERR1473424	sequencing batch:FC2014_030	carnegie stage 23	11884	46, xx	midbrain		Yes	8 post conception weeks
+445	ERR1473425	sequencing batch:FC2014_030	carnegie stage 23	11918	46, xx	midbrain		Yes	8 post conception weeks
+446	ERR1473426	sequencing batch:FC2014_032	carnegie stage 22	11814	46, xy	midbrain	right	Yes	8 post conception weeks
+447	ERR1473427	sequencing batch:FC2014_038	carnegie stage 22	11815	46, xx	midbrain		Yes	8 post conception weeks
+448	ERR1473428	sequencing batch:FC2014_035	9 post conception weeks	11820	46, xx	midbrain	right	Yes	9 post conception weeks
+449	ERR1473429	sequencing batch:FC2014_035	carnegie stage 22	11828	46, xx	midbrain		Yes	8 post conception weeks
+450	ERR1473430	sequencing batch:FC2014_035	carnegie stage 22	11829	46, xy	midbrain		Yes	8 post conception weeks
+451	ERR1473431	sequencing batch:FC2014_035	carnegie stage 22	11831	46, xy	midbrain		Yes	8 post conception weeks
+452	ERR1473432	sequencing batch:FC2014_037	carnegie stage 22	11858	46, xy	midbrain		Yes	8 post conception weeks
+453	ERR1473433	sequencing batch:FC2014_043	carnegie stage 22	11865	46, xy	midbrain		Yes	8 post conception weeks
+454	ERR1473434	sequencing batch:FC2014_035	carnegie stage 22	11878	46, xx	midbrain		Yes	8 post conception weeks
+455	ERR1473435	sequencing batch:FC2014_037	carnegie stage 18	11904	46, xy	midbrain		Yes	7 post conception weeks
+456	ERR1473436	sequencing batch:FC2014_037	carnegie stage 17	11931	unknown	midbrain		Yes	6 post conception weeks
+457	ERR1473437	sequencing batch:FC2014_037	carnegie stage 14	11840	46, xx	midbrain		Yes	5 post conception weeks
+458	ERR1473438	sequencing batch:FC2014_037	carnegie stage 14	11837	46, xy	midbrain		Yes	5 post conception weeks
+459	ERR1473439	sequencing batch:FC2014_040	9 post conception weeks	11810	46, xx	midbrain		Yes	9 post conception weeks
+460	ERR1473440	sequencing batch:FC2014_043	9 post conception weeks	11845	46, xy	midbrain		Yes	9 post conception weeks
+461	ERR1473441	sequencing batch:FC2014_065	9 post conception weeks	11851	46, xx	midbrain		Yes	9 post conception weeks
+462	ERR1473442	sequencing batch:FC2014_066	9 post conception weeks	11873	46, xx	midbrain		Yes	9 post conception weeks
+463	ERR1473443	sequencing batch:FC2014_066	9 post conception weeks	11606	46, xy	midbrain		Yes	9 post conception weeks
+464	ERR1473444	sequencing batch:FC2014_066	9 post conception weeks	11912	46, xy	midbrain		Yes	9 post conception weeks
+465	ERR1473445	sequencing batch:FC2014_066	9 post conception weeks	11874	46, xy	midbrain		Yes	9 post conception weeks
+466	ERR1473446	sequencing batch:FC2014_065	late 8 post conception weeks	11832	46, xx	midbrain		Yes	8 post conception weeks
+467	ERR1473447	sequencing batch:FC2014_071	late 8 post conception weeks	11830	46, xx	midbrain		Yes	8 post conception weeks
+468	ERR1473448	sequencing batch:FC2014_073	late 8 post conception weeks	11869	46, xx	midbrain		Yes	8 post conception weeks
+469	ERR1473449	sequencing batch:FC2014_054	carnegie stage 23	11920	46, xy	midbrain		Yes	8 post conception weeks
+470	ERR1473450	sequencing batch:FC2014_054	16 post conception weeks	11907	46, xx	midbrain	right	Yes	16 post conception weeks
+471	ERR1473451	sequencing batch:FC2014_058	13 post conception weeks	1923	46, xx	midbrain		Yes	13 post conception weeks
+472	ERR1473452	sequencing batch:FC2014_055	12 post conception weeks	11854	46, xy	midbrain		Yes	12 post conception weeks
+473	ERR1473453	sequencing batch:FC2014_055	12 post conception weeks	11834	46, xy	midbrain		Yes	12 post conception weeks
+474	ERR1473454	sequencing batch:FC2014_069	12 post conception weeks	1558	46, xx	midbrain		Yes	12 post conception weeks
+475	ERR1473455	sequencing batch:FC2014_043	12 post conception weeks	11885	46, xy	midbrain		Yes	12 post conception weeks
+476	ERR1473456	sequencing batch:FC2014_047	11 post conception weeks	11656	46, xx	midbrain		Yes	11 post conception weeks
+477	ERR1473457	sequencing batch:FC2014_047	11 post conception weeks	11609	46, xx	midbrain		Yes	11 post conception weeks
+478	ERR1473458	sequencing batch:FC2014_047	11 post conception weeks	11833	46, xx	midbrain		Yes	11 post conception weeks
+479	ERR1473459	sequencing batch:FC2014_044	10 post conception weeks	11841	46, xy	midbrain		Yes	10 post conception weeks
+480	ERR1473460	sequencing batch:FC2014_045	carnegie stage 21	11882	46, xx	midbrain		Yes	8 post conception weeks
+481	ERR1473461	sequencing batch:FC2014_045	carnegie stage 13	11903	46, xx	midbrain		Yes	4 post conception weeks
+482	ERR1473462	sequencing batch:FC2014_089	13 post conception weeks	11892	46, xy	midbrain		Yes	13 post conception weeks
+483	ERR1473463	sequencing batch:FC2014_053	13 post conception weeks	11844	46, xy	midbrain		No	13 post conception weeks
+484	ERR1473464	sequencing batch:FC2014_065	11 post conception weeks	11893	46, xx	midbrain		Yes	11 post conception weeks
+485	ERR1473465	sequencing batch:FC2014_080	12 post conception weeks	11683	46, xx	midbrain	left	Yes	12 post conception weeks
+486	ERR1473466	sequencing batch:FC2014_080	12 post conception weeks	12007	46, xy	midbrain		Yes	12 post conception weeks
+487	ERR1473467	sequencing batch:FC2014_080	12 post conception weeks	11683	46, xx	midbrain	right	Yes	12 post conception weeks
+488	ERR1473468	sequencing batch:FC2014_089	12 post conception weeks	11666	46, xy	midbrain	right	Yes	12 post conception weeks
+489	ERR1473469	sequencing batch:FC2014_081	10 post conception weeks	11653	46, xy	midbrain	right	Yes	10 post conception weeks
+490	ERR1473470	sequencing batch:FC2014_081	10 post conception weeks	11653	46, xy	midbrain	left	Yes	10 post conception weeks
+491	ERR1473471	sequencing batch:FC2014_081	12 post conception weeks	11666	46, xy	midbrain	left	Yes	12 post conception weeks
+492	ERR1473472	sequencing batch:FC2014_089	12 post conception weeks	11683	46, xx	midbrain	left	Yes	12 post conception weeks
+493	ERR1473473	sequencing batch:FC2014_032	carnegie stage 22	11814	46, xy	pituitary and diencephalon	right	Yes	8 post conception weeks
+494	ERR1473474	sequencing batch:FC2014_069	12 post conception weeks	11834	46, xy	pituitary and diencephalon		Yes	12 post conception weeks
+495	ERR1473475	sequencing batch:FC2014_066	9 post conception weeks	11873	46, xx	pons		Yes	9 post conception weeks
+496	ERR1473476	sequencing batch:FC2014_054	16 post conception weeks	11907	46, xx	pons	right	Yes	16 post conception weeks
+497	ERR1473519	sequencing batch:FC2014_048	carnegie stage 23	1456	46, xy	stomach		No	8 post conception weeks
+498	ERR1473520	sequencing batch:FC2014_038	carnegie stage 23	1406	46, xx	telencephalon	left	Yes	8 post conception weeks
+499	ERR1473521	sequencing batch:FC2014_038	carnegie stage 23	1406	46, xx	telencephalon	right	Yes	8 post conception weeks
+500	ERR1473522	sequencing batch:FC2014_038	carnegie stage 23	11823	46, xy	telencephalon	right	Yes	8 post conception weeks
+501	ERR1473523	sequencing batch:FC2014_038	carnegie stage 23	11823	46, xy	telencephalon	left	Yes	8 post conception weeks
+502	ERR1473524	sequencing batch:FC2014_030	carnegie stage 23	11884	46, xx	telencephalon	left	Yes	8 post conception weeks
+503	ERR1473525	sequencing batch:FC2014_030	carnegie stage 23	11884	46, xx	telencephalon	right	Yes	8 post conception weeks
+504	ERR1473526	sequencing batch:FC2014_032	carnegie stage 22	11814	46, xy	telencephalon	right	Yes	8 post conception weeks
+505	ERR1473527	sequencing batch:FC2014_035, FC2014_117	carnegie stage 22	11828	46, xx	telencephalon	left	Yes	8 post conception weeks
+506	ERR1473528	sequencing batch:FC2014_035, FC2014_117	carnegie stage 22	11828	46, xx	telencephalon	left	Yes	8 post conception weeks
+507	ERR1473529	sequencing batch:FC2014_035	carnegie stage 22	11828	46, xx	telencephalon	right	Yes	8 post conception weeks
+508	ERR1473530	sequencing batch:FC2014_035	carnegie stage 22	11829	46, xy	telencephalon	right	Yes	8 post conception weeks
+509	ERR1473531	sequencing batch:FC2014_035	carnegie stage 22	11829	46, xy	telencephalon	left	Yes	8 post conception weeks
+510	ERR1473532	sequencing batch:FC2014_043	carnegie stage 22	11865	46, xy	telencephalon	right	Yes	8 post conception weeks
+511	ERR1473533	sequencing batch:FC2014_035	carnegie stage 22	11871	46, xx	telencephalon	left	Yes	8 post conception weeks
+512	ERR1473534	sequencing batch:FC2014_035	carnegie stage 22	11871	46, xx	telencephalon	right	Yes	8 post conception weeks
+513	ERR1473535	sequencing batch:FC2014_035	carnegie stage 22	11878	46, xx	telencephalon	right	Yes	8 post conception weeks
+514	ERR1473536	sequencing batch:FC2014_037	carnegie stage 22	11878	46, xx	telencephalon	left	Yes	8 post conception weeks
+515	ERR1473537	sequencing batch:FC2014_037	16 post conception weeks	11947	46, xx	telencephalon	right	Yes	16 post conception weeks
+516	ERR1473538	sequencing batch:FC2014_066, FC2014_117	9 post conception weeks	11912	46, xy	telencephalon	right	Yes	9 post conception weeks
+517	ERR1473539	sequencing batch:FC2014_066, FC2014_117	9 post conception weeks	11912	46, xy	telencephalon	right	Yes	9 post conception weeks
+518	ERR1473540	sequencing batch:FC2014_066	9 post conception weeks	11912	46, xy	telencephalon	left	Yes	9 post conception weeks
+519	ERR1473541	sequencing batch:FC2014_055	14 post conception weeks	1290	46, xy	telencephalon	left	Yes	14 post conception weeks
+520	ERR1473542	sequencing batch:FC2014_047	11 post conception weeks	11609	46, xx	telencephalon	right	Yes	11 post conception weeks
+521	ERR1473543	sequencing batch:FC2014_047	11 post conception weeks	1123	unknown	telencephalon	left	Yes	11 post conception weeks
+522	ERR1473544	sequencing batch:FC2014_080	12 post conception weeks	11666	46, xy	telencephalon	right	Yes	12 post conception weeks
+523	ERR1473545	sequencing batch:FC2014_080	12 post conception weeks	11666	46, xy	telencephalon	left	Yes	12 post conception weeks
+524	ERR1473546	sequencing batch:FC2014_080	12 post conception weeks	11683	46, xx	telencephalon	right	Yes	12 post conception weeks
+525	ERR1473547	sequencing batch:FC2014_080	10 post conception weeks	11653	46, xy	telencephalon	right	Yes	10 post conception weeks
+526	ERR1473548	sequencing batch:FC2014_081	10 post conception weeks	11653	46, xy	telencephalon	left	Yes	10 post conception weeks
+527	ERR1473549	sequencing batch:FC2014_047	11 post conception weeks	1123	unknown	telencephalon	left	Yes	11 post conception weeks
+528	ERR1473550	sequencing batch:FC2014_047	11 post conception weeks	1123	unknown	telencephalon	left	Yes	11 post conception weeks
+529	ERR1473551	sequencing batch:FC2014_080	12 post conception weeks	11666	46, xy	telencephalon	right	Yes	12 post conception weeks
+530	ERR1473552	sequencing batch:FC2014_080	12 post conception weeks	11666	46, xy	telencephalon	right	Yes	12 post conception weeks
+531	ERR1473553	sequencing batch:FC2014_080	12 post conception weeks	11666	46, xy	telencephalon	left	Yes	12 post conception weeks
+532	ERR1473554	sequencing batch:FC2014_089	10 post conception weeks	11653	46, xy	telencephalon	right	Yes	10 post conception weeks
+533	ERR1473555	sequencing batch:FC2014_089	12 post conception weeks	11683	46, xx	telencephalon	right	Yes	12 post conception weeks
+534	ERR1473556	sequencing batch:FC2014_089	12 post conception weeks	11683	46, xx	telencephalon	left	Yes	12 post conception weeks
+535	ERR1473557	sequencing batch:FC2014_080	10 post conception weeks	11653	46, xy	telencephalon	left	Yes	10 post conception weeks
+536	ERR1473558	sequencing batch:FC2014_047	11 post conception weeks	1123	unknown	telencephalon	left	Yes	11 post conception weeks
+537	ERR1473559	sequencing batch:FC2014_047	11 post conception weeks	1123	unknown	telencephalon	left	Yes	11 post conception weeks
+538	ERR1473560	sequencing batch:FC2014_047	11 post conception weeks	1123	unknown	telencephalon	left	Yes	11 post conception weeks
+539	ERR1473561	sequencing batch:FC2014_035	9 post conception weeks	11820	46, xx	temporal lobe	left	Yes	9 post conception weeks
+540	ERR1473562	sequencing batch:FC2014_054, FC2014_151	15 post conception weeks	1117	unknown	temporal lobe	left	Yes	15 post conception weeks
+541	ERR1473563	sequencing batch:FC2014_054, FC2014_151	15 post conception weeks	1117	unknown	temporal lobe	left	Yes	15 post conception weeks
+542	ERR1473564	sequencing batch:FC2014_055	14 post conception weeks	11900	46, xy	temporal lobe	right	Yes	14 post conception weeks
+543	ERR1473565	sequencing batch:FC2014_055	14 post conception weeks	11900	46, xy	temporal lobe		Yes	14 post conception weeks
+544	ERR1473566	sequencing batch:FC2014_043	12 post conception weeks	11885	46, xy	temporal lobe	right	Yes	12 post conception weeks
+545	ERR1473567	sequencing batch:FC2014_047	11 post conception weeks	1110	unknown	temporal lobe	right	Yes	11 post conception weeks
+546	ERR1473568	sequencing batch:FC2014_044	11 post conception weeks	11833	46, xx	temporal lobe	right	Yes	11 post conception weeks
+547	ERR1473569	sequencing batch:FC2014_048	carnegie stage 23	1851	unknown	temporal lobe		No	8 post conception weeks
+548	ERR1473570	sequencing batch:FC2014_050	15 post conception weeks	1117	unknown	temporal lobe	left	Yes	15 post conception weeks
+549	ERR1473571	sequencing batch:FC2014_065	11 post conception weeks	1123	unknown	temporal lobe	left	Yes	11 post conception weeks
+550	ERR1473572	sequencing batch:FC2014_065	11 post conception weeks	1111	unknown	temporal lobe	right	Yes	11 post conception weeks
+551	ERR1473573	sequencing batch:FC2014_032	9 post conception weeks	11820	46, xx	temporal lobe	right	Yes	9 post conception weeks
+552	ERR1473574	sequencing batch:FC2014_043	9 post conception weeks	11845	46, xy	temporal lobe	left	Yes	9 post conception weeks
+553	ERR1473575	sequencing batch:FC2014_043	9 post conception weeks	11845	46, xy	temporal lobe	right	Yes	9 post conception weeks
+554	ERR1473576	sequencing batch:FC2014_043	9 post conception weeks	11851	46, xx	temporal lobe	right	Yes	9 post conception weeks
+555	ERR1473577	sequencing batch:FC2014_066	9 post conception weeks	11873	46, xx	temporal lobe	right	Yes	9 post conception weeks
+556	ERR1473578	sequencing batch:FC2014_054	16 post conception weeks	11907	46, xx	temporal lobe	right	Yes	16 post conception weeks
+557	ERR1473579	sequencing batch:FC2014_055	12 post conception weeks	1118	unknown	temporal lobe	right	Yes	12 post conception weeks
+558	ERR1473580	sequencing batch:FC2014_055	12 post conception weeks	11834	46, xy	temporal lobe	left	Yes	12 post conception weeks
+559	ERR1473581	sequencing batch:FC2014_058	12 post conception weeks	11834	46, xy	temporal lobe	right	Yes	12 post conception weeks
+560	ERR1473582	sequencing batch:FC2014_043	12 post conception weeks	11885	46, xy	temporal lobe	left	Yes	12 post conception weeks
+561	ERR1473583	sequencing batch:FC2014_047	12 post conception weeks	11885	46, xy	temporal lobe	right	Yes	12 post conception weeks
+562	ERR1473584	sequencing batch:FC2014_075	11 post conception weeks	11930	46, xx	temporal lobe	right	Yes	11 post conception weeks
+563	ERR1473585	sequencing batch:FC2014_044	10 post conception weeks	11841	46, xy	temporal lobe	right	Yes	10 post conception weeks
+564	ERR1473586	sequencing batch:FC2014_045	13 post conception weeks	11947	46, xx	temporal lobe	right	Yes	13 post conception weeks
+565	ERR1473587	sequencing batch:FC2014_044	17 post conception weeks	11921	46, xy	temporal lobe	left	Yes	17 post conception weeks
+566	ERR1473588	sequencing batch:FC2014_080	11 post conception weeks	11942	46, xx	temporal lobe	right	Yes	11 post conception weeks
+567	ERR1473589	sequencing batch:FC2014_080	11 post conception weeks	11942	46, xx	temporal lobe	left	Yes	11 post conception weeks
+568	ERR1473590	sequencing batch:FC2014_043	9 post conception weeks	11845	46, xy	temporal lobe	left	Yes	9 post conception weeks
+569	ERR1473591	sequencing batch:FC2014_043	9 post conception weeks	11845	46, xy	temporal lobe	right	Yes	9 post conception weeks
+570	ERR1473592	sequencing batch:FC2014_066	9 post conception weeks	11851	46, xx	temporal lobe	left	Yes	9 post conception weeks
+571	ERR1473593	sequencing batch:FC2014_066	9 post conception weeks	11851	46, xx	temporal lobe	right	Yes	9 post conception weeks
+572	ERR1473594	sequencing batch:FC2014_066	9 post conception weeks	11873	46, xx	temporal lobe	right	Yes	9 post conception weeks
+573	ERR1473595	sequencing batch:FC2014_054	16 post conception weeks	11907	46, xx	temporal lobe	right	Yes	16 post conception weeks
+574	ERR1473596	sequencing batch:FC2014_055	12 post conception weeks	11834	46, xy	temporal lobe	left	Yes	12 post conception weeks
+575	ERR1473597	sequencing batch:FC2014_058	12 post conception weeks	11834	46, xy	temporal lobe	right	Yes	12 post conception weeks
+576	ERR1473598	sequencing batch:FC2014_058	12 post conception weeks	11885	46, xy	temporal lobe	left	Yes	12 post conception weeks
+577	ERR1473599	sequencing batch:FC2014_044	10 post conception weeks	11841	46, xy	temporal lobe	right	Yes	10 post conception weeks
+578	ERR1473600	sequencing batch:FC2014_058	12 post conception weeks	1118	unknown	temporal lobe	right	Yes	12 post conception weeks
+579	ERR1473601	sequencing batch:FC2014_065	11 post conception weeks	1110	unknown	temporal lobe	right	Yes	11 post conception weeks
