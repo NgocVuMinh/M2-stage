@@ -8,3 +8,36 @@ cd /mnt/beegfs/RECHERCHE/u830_Esaulnier/
 ### About the nodes: 
 Login node is mother node, has Internet but no computing power. Computing nodes have power but no internet. So installing packages should be done in mother node.
 
+conda create -p /mnt/beegfs/RECHERCHE/u830_Esaulnier/Vu_N/conda_envs/hdbr python=3.11 bioconda::fastqc
+
+conda activate /mnt/beegfs/RECHERCHE/u830_Esaulnier/Vu_N/conda_envs/hdbr
+
+cd /mnt/beegfs/RECHERCHE/u830_Esaulnier/DATA/kdi_prod/project_result/2010/01.00/KDI_osaulnier/DATA/Others/HDBR_Brain_dev/
+
+
+
+#!/bin/bash
+#SBATCH --job-name=fastqc_multib    
+#SBATCH --ntasks=1
+#SBATCH --nodes=8
+#SBATCH --mem=1gb
+#SBATCH --time=01:00:00
+#SBATCH --partition=dev
+#SBATCH --output=fastqc_multib_%j.o
+#SBATCH --error=fastqc_multib_%j.e
+#SBATCH --mail-type=END
+#SBATCH --mail-user=minh-ngoc.vu@curie.fr
+
+
+
+
+From soroban to KDI
+
+/usr/local/bin/parrallel_rsync.sh /mnt/beegfs/RECHERCHE/u830_Esaulnier/DATA/kdi_prod/project_result/2010/01.00/KDI_osaulnier/DATA/Others/HDBR_Brain_dev/fastqc_multibatch /data/kdi_prod/project_result/2010/10.00/KDI_Ngoc/fastqc_multibatch
+
+
+
+
+
+
+
