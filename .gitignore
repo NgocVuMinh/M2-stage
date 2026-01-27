@@ -1,3 +1,5 @@
 papers/141673.pdf
 gitinit.txt
 .DS_Store
+.Rhistory
+env/meta.RData
