@@ -46,6 +46,14 @@ Also got my soroban access. Will need to re-learn the thing on Monday (with Loic
 
 ## Thurs 29 Jan
 
+Should have written this more consistently.
+
+Before the meeting I did metadata analysis. 
+
+1st meeting was good. People mostly asked questions about the sample preparation. I didnt know abortion was that complicated. 
+
+I did batch correction first before 
+
 Justifications to remove samples that come from batches with lower than 5 samples: https://academic.oup.com/biostatistics/article/17/1/29/1744261#137601345.
 
 --> remove and try ComBat-seq

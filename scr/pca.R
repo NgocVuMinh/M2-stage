@@ -29,6 +29,32 @@ colData <- colData %>%
   ) %>%
   ungroup()
 
+
+# ---- setting tissue levels
+colData <- colData%>%mutate(
+  tissue_level1=case_when(
+    tissue %in% c("cerebral cortex", "temporal lobe", "hippocampus", "basal ganglion", 
+                  "telencephalon", "diencephalon", "forebrain") ~ "forebrain",
+    tissue == "midbrain" ~ "midbrain",
+    tissue %in% c("cerebellum", "pons", "medulla oblongata", "hindbrain") ~ "hindbrain"
+  ),
+  tissue_level2=case_when(
+    tissue %in% c("cerebral cortex", "temporal lobe", "hippocampus", "basal ganglion", 
+                  "telencephalon") ~ "telencephalon",
+    tissue == "forebrain" ~ "whole forebrain",
+    tissue == "midbrain" ~ "midbrain",
+    tissue == "hindbrain" ~ "whole hindbrain",
+    TRUE ~ tissue)
+)
+
+
+dt.supp <- dt.supp%>% 
+  mutate(tissue_clean = case_when(
+    tissue_clean == "temporal lobe (hippocampus)" ~ "hippocampus",
+    TRUE ~ tissue_clean))
+
+
+
 length(unique(colData$batch)) # 29
 batch.counts <- as.data.frame(table(colData$batch))
 

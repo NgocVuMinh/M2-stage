@@ -278,6 +278,18 @@ ggplot(sel %>%
 
 
 
+writeLines(sel.multibatch$Run, "C:/Users/Equipe_Saulnier/OneDrive - INSTITUT CURIE/env/id_multibatches.txt")
+
+
+all(sel$Run %in% colnames(count0))
+which(!sel$Run %in% colnames(count0))
+
+# ERR1473323 also removed due to corrupted fastq --> 464 samples
+sel <- sel%>%filter(Run!="ERR1473323")
+
+
+
+
 
 
 
