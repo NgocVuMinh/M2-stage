@@ -41,10 +41,16 @@ REF to follow: https://www.sciencedirect.com/science/article/pii/S22111247210085
 https://academic.oup.com/nargab/article/2/3/lqaa078/5909519
 
 
-
-
-
 Also got my soroban access. Will need to re-learn the thing on Monday (with Loic?). Got a tutorial docs from Lucas too (in `docs/tut_soroban.docx`?).
 
 
-## 
+## Thurs 29 Jan
+
+Justifications to remove samples that come from batches with lower than 5 samples: https://academic.oup.com/biostatistics/article/17/1/29/1744261#137601345.
+
+--> remove and try ComBat-seq
+
+
+
+
+
